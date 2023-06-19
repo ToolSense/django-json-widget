@@ -2,6 +2,17 @@
 Changelog
 =========
 
+1.1.1 (2021-02-17)
+==================
+
+* Fix for issue #51, updates the bundled libs to 9.1.9 and additional notes for Django 3.1 changes
+
+1.1.0 (2021-02-05)
+==================
+
+* Added functionality to override version of JSONEditor to use
+* update readme for django 3.1
+
 1.0.1 (2020-04-17)
 ==================
 
