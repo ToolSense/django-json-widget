@@ -26,3 +26,6 @@ Contributors
 * Ashok Argent-Katwala (ashokdelphia)
 * Chris Culhane (cfculhane)
 * Amar Sahinovic (amarsahinovic)
+* Arcuri Davide (dadokkio)
+* Ling Li (lingster)
+* Steven Mapes (StevenMapes)
